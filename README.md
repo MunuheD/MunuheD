@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Dennis Munuhe
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a knack for uncovering insights and solving problems through data. I specialize in leveraging tools like Python, SQL, Excel, and Power BI to transform raw data into actionable intelligence.
+Welcome to my GitHub profile! As a dedicated **Data Analyst**, I excel in transforming complex datasets into meaningful insights that drive informed decisions. My expertise lies in utilizing Python, SQL, Excel, and Power BI to analyze data and deliver actionable solutions for real-world challenges.
+
 
 ---
 
@@ -28,7 +29,8 @@ Here are some of the exciting projects I've worked on:
 
 ## 🎯 Current Goals
 - Continue developing innovative tools for data analysis and automation.  
-- Expand my expertise in machine learning for predictive analytics.  
+- Expand my expertise in machine learning for predictive analytics.
+- Harness my skills for web scraping 
 
 ---
 
@@ -38,6 +40,6 @@ Here are some of the exciting projects I've worked on:
 
 ---
 
-🌱 Fun Fact: When I'm not analyzing data, you'll find me exploring the latest tech or tinkering with automation tools!
+🌱 Fun Fact: When I'm not analyzing data, you'll find me exploring web scraping automation tools!
 
 ---
