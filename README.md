@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there! 👋 I'm Dennis Munuhe
 
-<!--
-**MunuheD/MunuheD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a knack for uncovering insights and solving problems through data. I specialize in leveraging tools like Python, SQL, Excel, and Power BI to transform raw data into actionable intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Expertise
+
+### Data Analysis & Visualization
+- **Languages:** Python, SQL  
+- **Visualization Tools:** Power BI, Excel, Matplotlib, Seaborn  
+- **Python Libraries:** pandas, matplotlib, seaborn, scikit-learn  
+
+### Web Scraping & Data Mining
+- **Tools:** Selenium, Beautiful Soup, Scrapy, APIs  
+- I excel at extracting valuable data from the web and integrating it into workflows for analysis.
+
+---
+
+## 🌟 Featured Projects
+Here are some of the exciting projects I've worked on:
+
+- **[Scraping Self Storage Store](https://github.com/MunuheD/SCRAPING-SELF-STORAGE-STORE)**: A Python project to scrape and analyze data from a self-storage store website.  
+- **[Scraping Zapier Apps](https://github.com/MunuheD/SCRAPING-ALL-APPS-FROM-ZAPIER-USING-WEB-API-AND-B.S)**: Extracting detailed app data from the Zapier platform using web APIs and Beautiful Soup.  
+- **[Scraping U-boat Commanders](https://github.com/MunuheD/SCRAPPING-U-BOAT-COMMANDERS)**: Mining historical data about U-boat commanders from web sources for research and archival purposes.
+
+---
+
+## 🎯 Current Goals
+- Continue developing innovative tools for data analysis and automation.  
+- Expand my expertise in machine learning for predictive analytics.  
+
+---
+
+## 📫 Let's Connect!
+- **Email:** [webscrapingseniors@gmail.com](mailto:webscrapingseniors@gmail.com)  
+- **LinkedIn:** [Dennis Munuhe](https://www.linkedin.com/in/dennis-munuhe-280467159/)  
+
+---
+
+🌱 Fun Fact: When I'm not analyzing data, you'll find me exploring the latest tech or tinkering with automation tools!
+
+---
