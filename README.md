@@ -38,7 +38,6 @@ Here are some of the exciting projects I've worked on:
 
 ## 📫 Let's Connect!
 - **Email:** [webscrapingseniors@gmail.com](mailto:webscrapingseniors@gmail.com)  
-- **LinkedIn:** [Dennis Munuhe](https://www.linkedin.com/in/dennis-munuhe-280467159/)  
 
 ---
 
