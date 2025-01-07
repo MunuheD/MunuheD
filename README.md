@@ -26,6 +26,8 @@ Here are some of the exciting projects I've worked on:
 - **[Scraping Self Storage Store](https://github.com/MunuheD/SCRAPING-SELF-STORAGE-STORE)**: A Python project to scrape and analyze data from a self-storage store website.  
 - **[Scraping Zapier Apps](https://github.com/MunuheD/SCRAPING-ALL-APPS-FROM-ZAPIER-USING-WEB-API-AND-B.S)**: Extracting detailed app data from the Zapier platform using web APIs and Beautiful Soup.  
 - **[Scraping U-boat Commanders](https://github.com/MunuheD/SCRAPPING-U-BOAT-COMMANDERS)**: Mining historical data about U-boat commanders from web sources for research and archival purposes.
+### Desktop Application
+- **[Expense Tracker App](https://github.com/MunuheD/Expense-Tracker-App)**: The goal of the project is to build a desktop application using Python and Tkinter that helps users manage their daily expenses.
 
 ---
 
