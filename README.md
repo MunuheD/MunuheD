@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dennis Munuhe
+# Hi there! 👋 I'm Dennis Wahome
 
 Welcome to my GitHub profile! As a dedicated **Data Analyst**, I excel in transforming complex datasets into meaningful insights that drive informed decisions. My expertise lies in utilizing Python, SQL, Excel, and Power BI to analyze data and deliver actionable solutions for real-world challenges.
 
