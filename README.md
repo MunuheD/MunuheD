@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dennis Wahome
 
-Welcome to my GitHub profile! As a dedicated **Data Analyst**, I excel in transforming complex datasets into meaningful insights that drive informed decisions. My expertise lies in utilizing Python, SQL, Excel, and Power BI to analyze data and deliver actionable solutions for real-world challenges.
+Welcome to my GitHub profile! As a dedicated **Data Analyst**, I excel in transforming complex datasets into meaningful insights that drive informed decisions. My expertise lies in utilizing Python, SQL, Excel, Tableau, and Power BI to analyze data and deliver actionable solutions for real-world challenges.
 
 
 ---
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! As a dedicated **Data Analyst**, I excel in transf
 
 ### Data Analysis & Visualization
 - **Languages:** Python, SQL  
-- **Visualization Tools:** Power BI, Excel, Matplotlib, Seaborn  
+- **Visualization Tools:** Tableau, Power BI, Excel, Matplotlib, Seaborn  
 - **Python Libraries:** pandas, matplotlib, seaborn, scikit-learn  
 ## Web Scraping & Data Mining
 - **Tools:** Selenium, Beautiful Soup, Scrapy, APIs  
